@@ -3,7 +3,7 @@ a personal configuration of my I3wm
 
 <img src="http://mxsonic.ovh/preview1.png"/>
 
-# Requirements 
+<h2> Requirements </h2>
 
 - i3
 - j4-dmenu-desktop
