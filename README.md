@@ -11,3 +11,4 @@ a personal configuration of my I3wm
 - compton
 - feh
 - gnome-screenshot
+- polybar
