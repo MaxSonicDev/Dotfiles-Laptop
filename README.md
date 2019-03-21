@@ -1,5 +1,5 @@
-# personal-i3wm-config
-a personal configuration of my I3wm
+# Dotfiles of my laptop
+a personal configuration of my laptop
 
 <img src="http://mxsonic.ovh/preview1.png"/>
 
