@@ -12,3 +12,4 @@ a personal configuration of my laptop
 - feh
 - gnome-screenshot
 - polybar
+- dmenu
